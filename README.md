@@ -3,6 +3,8 @@
 
 Aναπτυξη server με NodeJS και build in modules
 
-ο χρήστης ανεβάζει το βιογραφικό του (η οποιοδηποτε αλλο αρχείο) και αυτο αποθηκεύται στον φακελο του προτζεκτ
+Ο χρήστης (client ) ανεβάζει το βιογραφικό του (η οποιοδήποτε άλλο αρχείο) στον server μας και αυτο αποθηκεύεται στον φάκελο του πρότζεκτ μας!
 
-δεσ εδω https://www.npmjs.com/package/multer
+Εγκαταστησαμε το https://www.npmjs.com/package/multer με npm install multer
+
+το προτζεκτ τρεχει σε localhost 4000 με node main.js
